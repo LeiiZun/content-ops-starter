@@ -282,8 +282,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Honnêtement, je pensais que c’était un truc classique comme on voit
+          partout. Mais après une semaine dans le Plan Gratuit, j’ai vu que les
+          infos étaient vraiment utiles. Maintenant, je suis sur le Plan
+          Standard, et j’ai déjà fait quelques bénéfices."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
