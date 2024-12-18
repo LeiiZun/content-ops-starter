@@ -8,10 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: '----------------------------'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Avec **AstralBusiness**, découvrez les clés des business qui fonctionnent
+      **vraiment** : 
+
+
+      trading, memecoins, crypto, e-commerce et OFM.
+
+
+
+      Nos méthodes simples et **efficaces** vous permettent de générer vos
+      premiers bénéfices **rapidement**.
+
+      Que vous débutiez ou cherchiez à vous perfectionner, nous vous
+      accompagnons pour atteindre vos objectifs.
+
     actions:
       - label: Get started
         altText: ''
