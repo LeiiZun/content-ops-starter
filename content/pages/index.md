@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Investissezvotre argent de la meilleure facon
+      text: Atteignez les 10k
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
