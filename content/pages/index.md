@@ -183,31 +183,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - subtitle: ''
-    images:
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: "Avis des membres\_✔️\_:"
@@ -336,6 +311,31 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: ''
+    images:
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
