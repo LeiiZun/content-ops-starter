@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Membre Découverte
+        title: "Membre Découverte\_\U0001F7E2"
         price: Gratuit
         details: Pas de carte de crédit
         description: >+
