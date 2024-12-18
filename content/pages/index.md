@@ -191,7 +191,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
