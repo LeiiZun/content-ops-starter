@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Atteignez les 10k
+      text: Atteignez les 10k€
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
