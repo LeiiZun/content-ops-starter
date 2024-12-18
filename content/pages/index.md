@@ -138,7 +138,7 @@ sections:
       - type: PricingPlan
         title: Membre à vie
         price: '125 € '
-        details: / par mois
+        details: en un unique paiement
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
