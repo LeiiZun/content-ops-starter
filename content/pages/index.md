@@ -159,7 +159,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/image-removebg-preview (1).png
           altText: Pricing plan 3
         actions:
           - type: Button
