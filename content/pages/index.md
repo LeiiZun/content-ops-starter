@@ -80,7 +80,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/1.png
