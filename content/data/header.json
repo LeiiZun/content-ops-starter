@@ -1,13 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "altText": "Logo Astral",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/user_2881457_88d8c6f8-cddd-4c87-.png"
     },
     "primaryLinks": [
         {

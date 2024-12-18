@@ -1,62 +1,13 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/_ASTRAL-removebg-preview (1).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "   Astral Business\n",
     "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "title": "",
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
@@ -87,7 +38,7 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Termes",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,7 +46,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Confidentialité",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -103,7 +54,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
