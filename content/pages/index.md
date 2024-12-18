@@ -120,7 +120,6 @@ sections:
           communauté. ✔️
 
         features:
-          - Feature two
           - Feature three
           - Feature four
         image:
