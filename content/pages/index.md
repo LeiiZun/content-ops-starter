@@ -256,7 +256,7 @@ sections:
           à des opportunités que je n’aurais jamais trouvées seule. C’est clair,
           simple, et ça marche."
         tagline: ''
-        subtitle: 'John Doe, Company'
+        subtitle: 'Marius, 17 ans'
         text: |+
 
 
