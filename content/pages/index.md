@@ -257,9 +257,7 @@ sections:
           simple, et ça marche."
         tagline: ''
         subtitle: 'Marius, 17 ans'
-        text: |+
-
-
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
