@@ -144,9 +144,7 @@ sections:
         title: Membre à vie
         price: '125 € '
         details: en un unique paiement
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: "Profitez d'un accès exclusif pour maximiser votre potentiel :\n\n*   Accès **illimité** à toutes les fonctionnalités du groupe et des Membres Standard. \U0001F48E\n\n*   Accès au **Chat VIP** réservé aux membres à vie avec les Traders et les Créateurs. \U0001F48E\n\n*   Informations stratégiques en **temps réel**, optimisées pour plus de rentabilité. \U0001F48E\n\n*   Échanges directs avec des experts et un accès privilégié aux opportunités. \U0001F48E\n\n*   Accès au **futurs** business qui seront proposés. \U0001F48E\n\n*   Aucun abonnement : **payez une fois, profitez à vie**. \U0001F48E\n\n\n\n\n\n"
         features: []
         image:
           type: ImageBlock
