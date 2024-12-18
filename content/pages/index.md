@@ -311,10 +311,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Honnêtement, je pensais que c’était un truc classique comme on voit
-          partout. Mais après une semaine dans le Plan Gratuit, j’ai vu que les
-          infos étaient vraiment utiles. Maintenant, je suis sur le Plan
-          Standard, et j’ai déjà fait quelques bénéfices."
+          "Avec AstralBusiness, j’ai enfin un cadre pour investir sans stresser.
+          J’ai pris le Plan 0 Vie, et je trouve ça hyper pratique d’avoir les
+          infos directes et le Chat VIP. LeiiZun est hyper dispo pour répondre
+          et ça m’a beaucoup aidée à progresser."
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''
