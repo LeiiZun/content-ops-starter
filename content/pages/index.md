@@ -209,7 +209,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: "Avis des membres\_ :"
+    subtitle: "Avis des membres\_✔️\_:"
     items:
       - title: >-
           "Je suis parti du Plan Gratuit pour tester, et franchement, j’ai tout
