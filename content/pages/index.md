@@ -316,7 +316,7 @@ sections:
           infos directes et le Chat VIP. LeiiZun est hyper dispo pour répondre
           et ça m’a beaucoup aidée à progresser."
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Mehdi, 18 ans'
         text: ''
         image:
           url: /images/person-placeholder-light.png
