@@ -93,7 +93,6 @@ sections:
         features:
           - Feature two
           - ''
-          - Feature three
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
