@@ -50,7 +50,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/•ASTRAL-modified.png
+      url: /images/•ASTRAL-modified (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
