@@ -218,35 +218,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Commencez dès Aujourd'hui !
-      color: text-dark
-    subtitle: le plus dur c'est de se lancer...
-    text: >
-      Prenez l'offre qui vous conviens et entamez votre nouvelle vie
-      d'entrepreneur !
-    actions:
-      - type: Button
-        label: REJOINDRE
-        url: 'https://whop.com/astralbusiness/'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/7.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: CarouselSection
     title: null
     subtitle: "Avis des membres\_✔️\_:"
@@ -375,6 +346,35 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Commencez dès Aujourd'hui !
+      color: text-dark
+    subtitle: le plus dur c'est de se lancer...
+    text: >
+      Prenez l'offre qui vous conviens et entamez votre nouvelle vie
+      d'entrepreneur !
+    actions:
+      - type: Button
+        label: REJOINDRE
+        url: 'https://whop.com/astralbusiness/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/7.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
