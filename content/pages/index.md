@@ -122,25 +122,23 @@ sections:
           Accédez à toutes les fonctionnalités pour développer vos compétences :
 
 
-          *   Accès complet au **groupe AstralBusiness**.
+          *   Accès complet au **groupe AstralBusiness**. ✔️
 
 
-          *   Accès aux Formations / Cours de chaque Business.
+          *   Accès aux Formations / Cours de chaque Business. ✔️
 
 
-          *   Informations sur les **memecoins** actualisées en temps réel.
+          *   Informations sur les **memecoins** actualisées en temps réel. ✔️
 
 
-          *   Conseils pratiques pour maximiser vos bénéfices.
+          *   Conseils pratiques pour maximiser vos bénéfices. ✔️
 
 
-          *   Chat communautaire et entraide entre les membres.
+          *   Chat communautaire et entraide entre les membres. ✔️
 
 
           *   Opportunité de poser vos questions et d'échanger avec la
-          communauté.
-
-
+          communauté. ✔️
 
         features:
           - Feature one
