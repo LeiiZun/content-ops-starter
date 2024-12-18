@@ -11,32 +11,7 @@
         "type": "ImageBlock",
         "url": "/images/user_2881457_88d8c6f8-cddd-4c87-.png"
     },
-    "primaryLinks": [
-        {
-            "label": "",
-            "altText": "",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
