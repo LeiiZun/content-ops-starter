@@ -10,21 +10,6 @@
         "links": [],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "",
-                "altText": "",
-                "url": "",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
