@@ -188,7 +188,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/_ASTRAL-removebg-preview (1).png
