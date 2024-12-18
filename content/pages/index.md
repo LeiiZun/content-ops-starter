@@ -311,8 +311,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Honnêtement, je pensais que c’était un truc classique comme on voit
+          partout. Mais après une semaine dans le Plan Gratuit, j’ai vu que les
+          infos étaient vraiment utiles. Maintenant, je suis sur le Plan
+          Standard, et j’ai déjà fait quelques bénéfices."
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''
