@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "Avec **AstralBusiness**, découvrez les clés des business qui fonctionnent vraiment :\n\n*   **Trading** \U0001F4C8\n*   **Memecoins** \U0001F49B\n*   **Crypto** \U0001F911\n*   **E-commerce** \U0001F4E6\n*   **OFM** \U0001F471‍♀️\n\nNos méthodes simples et **efficaces** vous permettent de générer vos premiers bénéfices **rapidement**.\n\nQue vous débutiez ou cherchiez à vous perfectionner, nous vous accompagnons pour atteindre vos **objectifs**.\n"
+    text: "\n\nAvec **AstralBusiness**, découvrez les clés des business qui fonctionnent vraiment :\n\n*   **Trading** \U0001F4C8\n*   **Memecoins** \U0001F49B\n*   **Crypto** \U0001F911\n*   **E-commerce** \U0001F4E6\n*   **OFM** \U0001F471‍♀️\n\nNos méthodes simples et **efficaces** vous permettent de générer vos premiers bénéfices **rapidement**.\n\nQue vous débutiez ou cherchiez à vous perfectionner, nous vous accompagnons pour atteindre vos **objectifs**.\n"
     actions:
       - label: NOS OFFRES
         altText: ''
