@@ -86,7 +86,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/gratuit.png
+          url: /images/8.png
           altText: Pricing plan 1
         actions:
           - type: Button
