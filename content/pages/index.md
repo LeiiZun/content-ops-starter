@@ -105,7 +105,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Membre Standard
+        title: "Membre Standard\_\U0001F48E"
         price: '25 € '
         details: / par mois
         description: >+
