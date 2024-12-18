@@ -223,9 +223,9 @@ sections:
     items:
       - title: >-
           "Je suis parti du Plan Gratuit pour tester, et franchement, j’ai tout
-          de suite vu que les infos étaient fiables. Maintenant, je suis Membre
+          de suite vu que les infos étaient fiables. Maintenant jsuis membre
           Standard, et les updates régulières m’aident à mieux investir. Ça m’a
-          évité de faire plein d’erreurs au début.
+          évité de faire plein d’erreurs au début en vrai.
         tagline: ''
         subtitle: 'Lucas, 24 ans'
         text: ''
