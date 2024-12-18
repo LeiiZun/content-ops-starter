@@ -51,7 +51,7 @@ sections:
           - pb-3
           - pr-3
   - type: CarouselSection
-    subtitle: 'Ce qu''on propose :'
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: ''
