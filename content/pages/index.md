@@ -105,7 +105,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: '25 € '
-        details: per month
+        details: par mois /
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
