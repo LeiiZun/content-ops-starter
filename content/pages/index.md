@@ -31,7 +31,7 @@ sections:
       Que vous débutiez ou cherchiez à vous perfectionner, nous vous
       accompagnons pour atteindre vos **objectifs**.
     actions:
-      - label: Get started
+      - label: NOS OFFRES
         altText: ''
         url: /
         showIcon: false
