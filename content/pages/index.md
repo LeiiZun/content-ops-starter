@@ -186,7 +186,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images:
       - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Empathy logo
