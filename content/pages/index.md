@@ -78,17 +78,20 @@ sections:
           Le choix idéal pour débuter et découvrir l'univers d'AstralBusiness :
 
 
-          *   Accès au **groupe** avec des informations de base.
+          *   Accès au **groupe** gratuit avec des informations de base
+          unqiuement + outils gratuits.
 
 
-          *   Découvrez les **memecoins du moment** : une mise à jour chaque
-          semaine.
+          *   Découvrez le **memecoin du moment** : une mise à jour chaque
+          semaine uniquement.
 
 
           *   Opportunité de **booker un appel gratuit** avec LeiiZun, le
-          créateur d'AstralBusiness.
+          créateur d'*AstralBusiness*.
 
 
+          *   Opportunité d'avoir des **réductions** sur les abonnements en
+          fonction de votre **investissement** au sein du groupe.
 
         features: []
         image:
