@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: "\n\nAvec **AstralBusiness**, découvrez les clés des business qui fonctionnent vraiment :\n\n*   **Trading** \U0001F4C8\n*   **Memecoins** \U0001F49B\n*   **Crypto** \U0001F911\n*   **E-commerce** \U0001F4E6\n*   **OFM** \U0001F471‍♀️\n\nNos méthodes simples et **efficaces** vous permettent de générer vos premiers bénéfices **rapidement**.\n\nQue vous débutiez ou cherchiez à vous perfectionner, nous vous accompagnons pour atteindre vos **objectifs**.\n"
     actions:
-      - label: NOS OFFRES
+      - label: REJOINDRE
         altText: ''
         url: 'https://whop.com/astralbusiness/'
         showIcon: false
@@ -91,7 +91,7 @@ sections:
         actions:
           - type: Button
             label: REJOINDRE
-            url: /
+            url: 'https://whop.com/astralbusiness/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -138,7 +138,7 @@ sections:
         actions:
           - type: Button
             label: REJOINDRE
-            url: /
+            url: 'https://whop.com/astralbusiness/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -188,7 +188,7 @@ sections:
         actions:
           - type: Button
             label: REJOINDRE
-            url: /
+            url: 'https://whop.com/astralbusiness/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -207,17 +207,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: CarouselSection
     title: null
     subtitle: "Avis des membres\_✔️\_:"
@@ -346,16 +335,46 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Commencez dès Aujourd'hui !
+      color: text-dark
+    subtitle: le plus dur c'est de se lancer...
+    text: >
+      Prenez l'offre qui vous conviens et entamez votre nouvelle vie
+      d'entrepreneur !
+    actions:
+      - type: Button
+        label: REJOINDRE
+        url: 'https://whop.com/astralbusiness/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/7.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - subtitle: ''
     images:
       - url: /images/_ASTRAL-removebg-preview (1).png
