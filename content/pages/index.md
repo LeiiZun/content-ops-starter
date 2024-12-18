@@ -227,7 +227,7 @@ sections:
           Standard, et les updates régulières m’aident à mieux investir. Ça m’a
           évité de faire plein d’erreurs au début.
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Lucas, 24 ans'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
