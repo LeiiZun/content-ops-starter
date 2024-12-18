@@ -55,31 +55,6 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/1.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
         subtitle: ''
         image:
           type: ImageBlock
