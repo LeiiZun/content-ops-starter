@@ -68,7 +68,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '---------------------------------------'
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: Developers
