@@ -287,7 +287,7 @@ sections:
           infos étaient vraiment utiles. Maintenant, je suis sur le Plan
           Standard, et j’ai déjà fait quelques bénéfices."
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Antoine, 19 ans'
         text: ''
         image:
           url: /images/person-placeholder-light.png
