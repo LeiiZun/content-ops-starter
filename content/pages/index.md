@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: Rejoingez Astral
-      color: text-dark
+      color: text-primary
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
