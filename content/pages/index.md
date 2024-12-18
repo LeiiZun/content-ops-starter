@@ -159,7 +159,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/image-removebg-preview (1).png
+          url: /images/10.png
           altText: Pricing plan 3
         actions:
           - type: Button
