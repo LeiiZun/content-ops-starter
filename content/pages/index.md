@@ -104,7 +104,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Membre Standard
         price: '25 € '
         details: / par mois
         description: >-
