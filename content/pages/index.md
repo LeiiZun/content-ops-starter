@@ -229,7 +229,7 @@ sections:
       d'entrepreneur !
     actions:
       - type: Button
-        label: Get started
+        label: REJOINDRE
         url: /
         icon: arrowRight
         iconPosition: right
