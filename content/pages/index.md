@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: GRADE Découverte
+        title: Membre Découverte
         price: Gratuit
         details: Pas de carte de crédit
         description: >-
