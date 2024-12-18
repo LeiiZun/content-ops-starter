@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Atteignez les 10k€ par mois en dès maintenant !
+      text: Atteignez les 10k € par mois en dès maintenant !
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
