@@ -67,8 +67,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/2.png
@@ -91,8 +91,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/3.png
@@ -115,8 +115,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/4.png
@@ -139,8 +139,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/5.png
@@ -163,8 +163,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/6.png
@@ -187,8 +187,8 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/7.png
