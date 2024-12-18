@@ -33,7 +33,7 @@ sections:
     actions:
       - label: NOS OFFRES
         altText: ''
-        url: /
+        url: /FEATURED ITEMS
         showIcon: false
         icon: arrowRight
         iconPosition: right
