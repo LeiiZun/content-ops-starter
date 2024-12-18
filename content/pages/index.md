@@ -197,7 +197,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
