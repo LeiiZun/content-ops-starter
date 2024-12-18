@@ -138,7 +138,7 @@ sections:
         actions:
           - type: Button
             label: REJOINDRE
-            url: /
+            url: 'https://whop.com/astralbusiness/'
             icon: arrowRight
             iconPosition: right
             style: secondary
