@@ -133,7 +133,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/diamant.png
+          url: /images/9.png
           altText: Pricing plan 2
         actions:
           - type: Button
