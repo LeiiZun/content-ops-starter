@@ -23,7 +23,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Se connecter",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
