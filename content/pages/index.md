@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Découverte
         price: Gratuit
         details: Pas de carte de crédit
         description: >-
