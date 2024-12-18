@@ -286,7 +286,7 @@ sections:
           partout. Mais après une semaine dans le Plan Gratuit, j’ai vu que les
           infos étaient vraiment utiles. Maintenant, je suis sur le Plan
           Standard, et j’ai déjà fait quelques bénéfices."
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
