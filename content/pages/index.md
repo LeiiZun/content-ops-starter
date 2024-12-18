@@ -136,7 +136,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: Membre à vie
         price: '125 € '
         details: / par mois
         description: >-
