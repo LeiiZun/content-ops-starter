@@ -223,7 +223,7 @@ sections:
       type: TitleBlock
       text: Commencez dès Aujourd'hui !
       color: text-dark
-    subtitle: Be in good company
+    subtitle: le plus dur c'est de se lancer...
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
