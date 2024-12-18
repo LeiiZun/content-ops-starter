@@ -79,7 +79,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
