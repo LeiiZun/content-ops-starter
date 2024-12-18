@@ -120,7 +120,6 @@ sections:
           communauté. ✔️
 
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
