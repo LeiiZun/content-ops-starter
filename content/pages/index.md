@@ -137,7 +137,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: '125 € '
-        details: per month
+        details: / par mois
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
