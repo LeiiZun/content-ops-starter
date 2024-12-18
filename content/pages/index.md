@@ -33,7 +33,7 @@ sections:
     actions:
       - label: NOS OFFRES
         altText: ''
-        url: /FEATURED ITEMS
+        url: 'https://whop.com/astralbusiness/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
