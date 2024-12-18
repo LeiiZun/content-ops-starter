@@ -8,21 +8,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: '----------------------------'
-    text: >
-      ## Avec **AstralBusiness**
+    text: >+
+      ##### Avec **AstralBusiness**
 
 
-      , découvrez les clés des business qui fonctionnent vraiment :
+      ##### , découvrez les clés des business qui fonctionnent vraiment :
 
 
-      trading, memecoins, crypto, e-commerce et OFM.
+      ##### trading, memecoins, crypto, e-commerce et OFM.
 
 
-      Nos méthodes simples et **efficaces** vous permettent de générer vos
+      ##### Nos méthodes simples et **efficaces** vous permettent de générer vos
       premiers bénéfices **rapidement**.
 
       Que vous débutiez ou cherchiez à vous perfectionner, nous vous
       accompagnons pour atteindre vos objectifs.
+
     actions:
       - label: Get started
         altText: ''
