@@ -154,7 +154,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/5.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
