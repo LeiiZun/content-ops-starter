@@ -74,9 +74,22 @@ sections:
         title: Membre Découverte
         price: Gratuit
         details: Pas de carte de crédit
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Le choix idéal pour débuter et découvrir l'univers d'AstralBusiness :
+
+
+          *   Accès au **groupe** avec des informations de base.
+
+
+          *   Découvrez les **memecoins du moment** : une mise à jour chaque
+          semaine.
+
+
+          *   Opportunité de **booker un appel gratuit** avec LeiiZun, le
+          créateur d'AstralBusiness.
+
+
+
         features:
           - Feature one
           - Feature two
