@@ -118,9 +118,30 @@ sections:
         title: Membre Standard
         price: '25 € '
         details: / par mois
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Accédez à toutes les fonctionnalités pour développer vos compétences :
+
+
+          *   Accès complet au **groupe AstralBusiness**.
+
+
+          *   Accès aux Formations / Cours de chaque Business.
+
+
+          *   Informations sur les **memecoins** actualisées en temps réel.
+
+
+          *   Conseils pratiques pour maximiser vos bénéfices.
+
+
+          *   Chat communautaire et entraide entre les membres.
+
+
+          *   Opportunité de poser vos questions et d'échanger avec la
+          communauté.
+
+
+
         features:
           - Feature one
           - Feature two
