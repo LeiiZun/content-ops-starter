@@ -24,7 +24,7 @@
         },
         {
             "label": "Se connecter",
-            "url": "/",
+            "url": "https://whop.com/astralbusiness/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
