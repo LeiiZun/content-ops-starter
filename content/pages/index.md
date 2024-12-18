@@ -225,8 +225,8 @@ sections:
       color: text-dark
     subtitle: le plus dur c'est de se lancer...
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Prenez l'offre qui vous conviens et entamez votre nouvelle vie
+      d'entrepreneur !
     actions:
       - type: Button
         label: Get started
