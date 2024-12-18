@@ -203,7 +203,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview.png
+      - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
