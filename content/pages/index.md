@@ -236,7 +236,7 @@ sections:
         style: secondary
       - type: Link
         label: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
