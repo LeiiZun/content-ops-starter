@@ -221,7 +221,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Commencez dès Aujourd'hui !
       color: text-dark
     subtitle: Be in good company
     text: >
