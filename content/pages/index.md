@@ -206,7 +206,7 @@ sections:
       - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/_ASTRAL-removebg-preview (1).png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
