@@ -222,8 +222,10 @@ sections:
     subtitle: 'Avis des membres :'
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Je suis parti du Plan Gratuit pour tester, et franchement, j’ai tout
+          de suite vu que les infos étaient fiables. Maintenant, je suis Membre
+          Standard, et les updates régulières m’aident à mieux investir. Ça m’a
+          évité de faire plein d’erreurs au début.
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
