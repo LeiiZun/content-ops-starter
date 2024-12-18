@@ -148,7 +148,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature three
           - Feature four
           - Feature five
         image:
