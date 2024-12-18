@@ -251,8 +251,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Je cherchais des infos concrètes pour comprendre les memecoins, et
+          Astral m’a vraiment aidée. Avec le Chat VIP du Plan à vie, j’ai accès
+          à des opportunités que je n’aurais jamais trouvées seule. C’est clair,
+          simple, et ça marche."
         tagline: ''
         subtitle: 'John Doe, Company'
         text: |+
