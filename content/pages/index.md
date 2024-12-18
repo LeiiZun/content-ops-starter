@@ -73,7 +73,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Gratuit
-        details: No credit card required
+        details: Pas de carte de crédit
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
