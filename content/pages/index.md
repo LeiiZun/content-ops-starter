@@ -177,31 +177,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    images:
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/_ASTRAL-removebg-preview (1).png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
       text: List of features here
       color: text-primary
@@ -294,6 +269,31 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - subtitle: ''
+    images:
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/_ASTRAL-removebg-preview (1).png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
