@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Atteignez les 10k€ par mois dès maintenant
+      text: Atteignez les 2k€ par mois dès maintenant
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -25,7 +25,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Rejoingez Astral
+      label: Rejoignez Astral
       color: text-primary
       type: Badge
     elementId: ''
@@ -217,6 +217,35 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Notre Discord pour les membres
+      color: text-dark
+    subtitle: Informations / Calls
+    text: >
+      Des salons pour les membres gratuits et des salons réservés aux membres
+      Standard et VIP 
+    actions:
+      - type: Button
+        label: LE DISCORD
+        url: 'https://discord.gg/VWPNf84hET'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/IMG_5977.jpeg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: DISPONIBLE
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
