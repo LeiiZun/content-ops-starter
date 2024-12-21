@@ -225,7 +225,7 @@ sections:
     subtitle: Informations / Calls
     text: >
       Des salons pour les membres gratuits et des salons réservés aux membres
-      Standard et VIP !
+      Standard et VIP 
     actions:
       - type: Button
         label: Get started
