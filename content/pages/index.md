@@ -228,7 +228,7 @@ sections:
       Standard et VIP 
     actions:
       - type: Button
-        label: Get started
+        label: LE DISCORD
         url: /
         icon: arrowRight
         iconPosition: right
