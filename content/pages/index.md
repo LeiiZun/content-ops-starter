@@ -224,8 +224,8 @@ sections:
       color: text-dark
     subtitle: Informations / Calls
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Des salons pour les membres gratuits et des salons réservés aux membres
+      Standard et VIP !
     actions:
       - type: Button
         label: Get started
