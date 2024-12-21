@@ -236,7 +236,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_5977.jpeg
-      altText: Dope design preview
+      altText: Image DIscord
     badge:
       type: Badge
       label: DISPONIBLE
