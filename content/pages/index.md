@@ -25,7 +25,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Rejoingez Astral
+      label: Rejoignez Astral
       color: text-primary
       type: Badge
     elementId: ''
