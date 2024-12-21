@@ -229,7 +229,7 @@ sections:
     actions:
       - type: Button
         label: LE DISCORD
-        url: /
+        url: 'https://discord.gg/VWPNf84hET'
         icon: arrowRight
         iconPosition: right
         style: secondary
