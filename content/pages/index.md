@@ -220,7 +220,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Notre Discord pour les membres
       color: text-dark
     subtitle: Be in good company
     text: >
